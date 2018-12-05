@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-image:url("https://i.ytimg.com/vi/lUANAZpHPqw/maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    
+}
+button{
+    width: 200px;   
+    height: 50px;
+    font-size: 20px;
+    background: #57f2c8;
+    color:#b663f2;
+    border-radius: 20px;
+    border: solid black 3px;
+}
+ button:hover{
+    background:white;
+    color:purple;
+}
+h2{
+    font-family: 'Cookie', cursive;
+}
+h1{
+    font-size: 50px;
+    text-shadow: -4px 3px 0 #3a50d9;
+    font-family: 'Merienda One', cursive;
+    
+}
+#spell{
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    align-items: center;
+}
+.zero{
+    width:500px;
+}
+img{
+    width: 500px;
+    border:20px solid #fffb44;
+    margin:30px;
+    padding:10px;
+}
