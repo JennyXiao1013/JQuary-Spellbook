@@ -1,0 +1,9 @@
+$(".hide").click(function(){
+    $(".one").toggle();
+});
+$(".slide").click(function(){
+    $(".two").slideToggle();
+});
+$(".show").click(function(){
+    $(".three").fadeToggle();
+});
